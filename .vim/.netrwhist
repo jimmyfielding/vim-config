@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/jfielding/go/src/github.com/BrandwatchLtd/slipstream/internal/imagetags'
+let g:netrw_dirhist_1='/Users/jfielding/go/src/github.com/BrandwatchLtd/slipstream/internal'
+let g:netrw_dirhist_0='/Users/jfielding/go/src/github.com/BrandwatchLtd/slipstream'
+let g:netrw_dirhist_9='/Users/jfielding/go/src/github.com/BrandwatchLtd'
+let g:netrw_dirhist_8='/Users/jfielding/go/src/github.com'
+let g:netrw_dirhist_7='/Users/jfielding/go/src'
+let g:netrw_dirhist_6='/Users/jfielding/go'
+let g:netrw_dirhist_5='/Users/jfielding'
+let g:netrw_dirhist_4='/Users/jfielding/go/src/github.com/BrandwatchLtd/kuber-cli/pkg/logs'
+let g:netrw_dirhist_3='/Users/jfielding/go/src/github.com/BrandwatchLtd/kuber-cli/pkg'
